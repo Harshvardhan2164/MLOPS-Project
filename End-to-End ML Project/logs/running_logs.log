@@ -1,1 +1,101 @@
 [2025-01-28 23:04:21,336: INFO: main: Welcome to out custom logging]
+[2025-01-29 15:15:25,679: INFO: common: yaml file: <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 15:15:25,685: INFO: common: yaml file: <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 15:16:05,127: INFO: common: yaml file: <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 15:16:05,129: INFO: common: yaml file: <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 15:16:05,131: INFO: common: yaml file: <_io.TextIOWrapper name='schema.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 15:16:05,132: INFO: common: Created directory at: artifaacts]
+[2025-01-29 15:16:05,133: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-01-29 15:17:11,156: INFO: common: yaml file: <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 15:17:11,158: INFO: common: yaml file: <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 15:17:11,160: INFO: common: yaml file: <_io.TextIOWrapper name='schema.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 15:17:11,160: INFO: common: Created directory at: artifaacts]
+[2025-01-29 15:17:11,162: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-01-29 15:18:34,104: INFO: common: yaml file: <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 15:18:34,105: INFO: common: yaml file: <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 15:18:34,106: INFO: common: yaml file: <_io.TextIOWrapper name='schema.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 15:18:34,108: INFO: common: Created directory at: artifacts]
+[2025-01-29 15:18:34,109: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-01-29 15:39:41,725: INFO: common: yaml file: <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 15:39:41,727: INFO: common: yaml file: <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 15:39:41,728: INFO: common: yaml file: <_io.TextIOWrapper name='schema.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 15:39:41,728: INFO: common: Created directory at: artifacts]
+[2025-01-29 15:39:41,730: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-01-29 15:42:20,196: INFO: common: yaml file: <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 15:42:20,197: INFO: common: yaml file: <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 15:42:20,198: INFO: common: yaml file: <_io.TextIOWrapper name='schema.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 15:42:20,199: INFO: common: Created directory at: artifacts]
+[2025-01-29 15:42:20,201: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-01-29 21:56:59,139: INFO: common: yaml file: <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 21:56:59,144: INFO: common: yaml file: <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 21:56:59,149: INFO: common: yaml file: <_io.TextIOWrapper name='schema.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 21:56:59,151: INFO: common: Created directory at: artifacts]
+[2025-01-29 21:56:59,155: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-01-29 22:03:50,819: INFO: common: yaml file: <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 22:03:50,826: INFO: common: yaml file: <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 22:03:50,828: INFO: common: yaml file: <_io.TextIOWrapper name='schema.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 22:03:50,828: INFO: common: Created directory at: artifacts]
+[2025-01-29 22:03:50,832: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-01-29 22:03:52,454: INFO: 3157313809: artifacts/data_ingestion/data.zip downloaded! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C6D4:335323:16434B:1EB1F7:679A5878
+Accept-Ranges: bytes
+Date: Wed, 29 Jan 2025 16:34:01 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21743-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1738168441.069124,VS0,VE534
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 60d03df7ba5cefe97693fd38c0a0ac4cf4ba712d
+Expires: Wed, 29 Jan 2025 16:39:01 GMT
+Source-Age: 0
+
+]
+[2025-01-29 22:16:02,804: INFO: main: >>>>>>> Stage Data Ingestion stage started <<<<<<<]
+[2025-01-29 22:16:02,818: INFO: common: yaml file: <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 22:16:02,818: INFO: common: yaml file: <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 22:16:02,818: INFO: common: yaml file: <_io.TextIOWrapper name='schema.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-29 22:16:02,818: INFO: common: Created directory at: artifacts]
+[2025-01-29 22:16:02,818: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-01-29 22:16:04,329: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C6D4:335323:16434B:1EB1F7:679A5878
+Accept-Ranges: bytes
+Date: Wed, 29 Jan 2025 16:46:13 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21731-DEL
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1738169173.219920,VS0,VE259
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 2dae2f7581bc5f48816b098f1b883c4eb8740781
+Expires: Wed, 29 Jan 2025 16:51:13 GMT
+Source-Age: 0
+
+]
+[2025-01-29 22:16:04,335: INFO: main: >>>>>>> Stage Data Ingestion stage completed <<<<<<<<
+
+x=============x]

@@ -1,4 +1,4 @@
-artifacts_root: artifaacts
+artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion

@@ -1,4 +1,4 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.2
 Name: MLproject
 Version: 0.0.0
 Summary: Python project for ML application
@@ -6,6 +6,12 @@ Home-page: https://github.com/Harshvardhan2164/MLOPS-Project
 Author: Harshvardhan2164
 Author-email: harshvardhan22102@iiitnr.edu.in
 Project-URL: bug Tracker, https://github.com/Harshvardhan2164/MLOPS-Project/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
 
 # End-to-End ML Project
 
