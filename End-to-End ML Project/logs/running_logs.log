@@ -154,3 +154,105 @@ x=============x]
 [2025-01-29 22:57:05,005: INFO: main: >>>>>>> Stage Data Validation stage completed <<<<<<<<
 
 x=============x]
+[2025-01-30 16:25:01,030: INFO: common: yaml file: <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:25:01,035: INFO: common: yaml file: <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:25:01,038: INFO: common: yaml file: <_io.TextIOWrapper name='schema.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:25:01,039: INFO: common: Created directory at: artifacts]
+[2025-01-30 16:25:01,041: INFO: common: Created directory at: arifacts/data_transformation]
+[2025-01-30 16:25:10,801: INFO: common: yaml file: <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:25:10,803: INFO: common: yaml file: <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:25:10,804: INFO: common: yaml file: <_io.TextIOWrapper name='schema.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:25:10,806: INFO: common: Created directory at: artifacts]
+[2025-01-30 16:25:10,806: INFO: common: Created directory at: arifacts/data_transformation]
+[2025-01-30 16:25:10,834: INFO: 4131139556: Split data into training and testing sets]
+[2025-01-30 16:25:10,835: INFO: 4131139556: (1199, 12)]
+[2025-01-30 16:25:10,836: INFO: 4131139556: (400, 12)]
+[2025-01-30 16:27:07,681: INFO: common: yaml file: <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:27:07,683: INFO: common: yaml file: <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:27:07,686: INFO: common: yaml file: <_io.TextIOWrapper name='schema.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:27:07,688: INFO: common: Created directory at: artifacts]
+[2025-01-30 16:27:07,690: INFO: common: Created directory at: artifacts/data_transformation]
+[2025-01-30 16:27:07,709: INFO: 4131139556: Split data into training and testing sets]
+[2025-01-30 16:27:07,710: INFO: 4131139556: (1199, 12)]
+[2025-01-30 16:27:07,710: INFO: 4131139556: (400, 12)]
+[2025-01-30 16:38:45,495: INFO: main: >>>>>>> Stage Data Ingestion stage started <<<<<<<]
+[2025-01-30 16:38:45,495: INFO: common: yaml file: <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:38:45,495: INFO: common: yaml file: <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:38:45,495: INFO: common: yaml file: <_io.TextIOWrapper name='schema.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:38:45,511: INFO: common: Created directory at: artifacts]
+[2025-01-30 16:38:45,511: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-01-30 16:38:45,511: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2025-01-30 16:38:45,511: INFO: main: >>>>>>> Stage Data Ingestion stage completed <<<<<<<<
+
+x=============x]
+[2025-01-30 16:38:45,511: INFO: main: >>>>>>> Stage Data Validation stage started <<<<<<<]
+[2025-01-30 16:38:45,511: INFO: common: yaml file: <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:38:45,511: INFO: common: yaml file: <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:38:45,511: INFO: common: yaml file: <_io.TextIOWrapper name='schema.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:38:45,511: INFO: common: Created directory at: artifacts]
+[2025-01-30 16:38:45,511: INFO: common: Created directory at: artifacts/data_validation]
+[2025-01-30 16:38:45,511: INFO: main: >>>>>>> Stage Data Validation stage completed <<<<<<<<
+
+x=============x]
+[2025-01-30 16:38:45,511: INFO: main: >>>>>>> Stage Data Tranformation stage started <<<<<<<]
+[2025-01-30 16:38:45,511: INFO: common: yaml file: <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:38:45,511: INFO: common: yaml file: <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:38:45,527: INFO: common: yaml file: <_io.TextIOWrapper name='schema.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:38:45,527: INFO: common: Created directory at: artifacts]
+[2025-01-30 16:40:22,675: INFO: main: >>>>>>> Stage Data Ingestion stage started <<<<<<<]
+[2025-01-30 16:40:22,677: INFO: common: yaml file: <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:40:22,677: INFO: common: yaml file: <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:40:22,679: INFO: common: yaml file: <_io.TextIOWrapper name='schema.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:40:22,679: INFO: common: Created directory at: artifacts]
+[2025-01-30 16:40:22,679: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-01-30 16:40:24,834: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: BF72:AF7E2:1EF06A:29C7C9:679B5E29
+Accept-Ranges: bytes
+Date: Thu, 30 Jan 2025 11:10:35 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4722-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1738235435.925139,VS0,VE478
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 5e14ad13f9643de10869f9f1b798572fa140f568
+Expires: Thu, 30 Jan 2025 11:15:35 GMT
+Source-Age: 0
+
+]
+[2025-01-30 16:40:24,834: INFO: main: >>>>>>> Stage Data Ingestion stage completed <<<<<<<<
+
+x=============x]
+[2025-01-30 16:40:24,834: INFO: main: >>>>>>> Stage Data Validation stage started <<<<<<<]
+[2025-01-30 16:40:24,834: INFO: common: yaml file: <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:40:24,834: INFO: common: yaml file: <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:40:24,834: INFO: common: yaml file: <_io.TextIOWrapper name='schema.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:40:24,834: INFO: common: Created directory at: artifacts]
+[2025-01-30 16:40:24,834: INFO: common: Created directory at: artifacts/data_validation]
+[2025-01-30 16:40:24,850: INFO: main: >>>>>>> Stage Data Validation stage completed <<<<<<<<
+
+x=============x]
+[2025-01-30 16:40:24,850: INFO: main: >>>>>>> Stage Data Tranformation stage started <<<<<<<]
+[2025-01-30 16:40:24,850: INFO: common: yaml file: <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:40:24,850: INFO: common: yaml file: <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:40:24,850: INFO: common: yaml file: <_io.TextIOWrapper name='schema.yaml' mode='r' encoding='cp1252'> loaded successfully]
+[2025-01-30 16:40:24,850: INFO: common: Created directory at: artifacts]
+[2025-01-30 16:40:24,850: INFO: common: Created directory at: artifacts/data_transformation]
+[2025-01-30 16:40:24,866: INFO: data_transformation: Split data into training and testing sets]
+[2025-01-30 16:40:24,866: INFO: data_transformation: (1199, 12)]
+[2025-01-30 16:40:24,866: INFO: data_transformation: (400, 12)]
+[2025-01-30 16:40:24,866: INFO: main: >>>>>>> Stage Data Tranformation stage completed <<<<<<<<
+
+x=============x]
