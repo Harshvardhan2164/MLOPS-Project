@@ -23,8 +23,9 @@ git clone https://github.com/Harshvardhan2164/MLOPS-Project.git
 2. Create a virtual environment after opening the repository (Use Python Version < 3.11)
 ```bash
 python -m venv env
-'''
-'''bash
+```
+
+```bash
 source env/Scripts/activate
 ```
 
@@ -40,26 +41,15 @@ python app.py
 
 5. Open up your localhost and port
 
-## ML Flow
+### [Dagshub](https://dagshub.com/)
 
 [Documentation](https://mlflow.org/docs/latest/index.html)
 
-### cmd
-- mlflow ui
-
-### dagshub
-[dagshub](https://dagshub.com/)
-
-MLFLOW_TRACKING_URI = https://dagshub.com/Harshvardhan2164/MLOPS-Project.mlflow \
-MLFLOW_TRACKING_USERNAME = Harshvardhan2164 \
-MLFLOW_TRACKING_PASSWORD = cb224190d08b1d4dec2192ba302c4f5bb4173956 \
-python script.py
-
 Run this to export as env variables:
 ```bash
-export MLFLOW_TRACKING_URI=https://dagshub.com/Harshvardhan2164/MLOPS-Project.mlflow
+export MLFLOW_TRACKING_URI=your_mlflow_tracking_uri
 
-export MLFLOW_TRACKING_USERNAME=Harshvardhan2164
+export MLFLOW_TRACKING_USERNAME=your_mlflow_tracking_usernmae
 
-export MLFLOW_TRACKING_PASSWORD=519f4d6e8f2ce60af489466d4193c4a527af3554
+export MLFLOW_TRACKING_PASSWORD=your_mlflow_access_token
 ```
