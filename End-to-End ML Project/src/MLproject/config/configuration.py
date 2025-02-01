@@ -1,9 +1,6 @@
 from MLproject.constants import *
 from MLproject.utils.common import read_yaml, create_directories
-from MLproject.entity.config_entity import DataIngestionConfig
-from MLproject.entity.config_entity import DataValidationConfig
-from MLproject.entity.config_entity import DataTransformationConfig
-from MLproject.entity.config_entity import ModelTrainerConfig
+from MLproject.entity.config_entity import DataIngestionConfig, DataValidationConfig, DataTransformationConfig, ModelTrainerConfig, ModelEvaluationConfig
 
 class ConfigurationManager:
     def __init__(
@@ -78,4 +75,23 @@ class ConfigurationManager:
         )
         
         return model_trainer_config
+    
+    def get_model_evaluation_config(self) -> ModelEvaluationConfig:
+        config = self.config.model_evaluation
+        params = self.params
+        schema = self.schema.TARGET_COLUMN
+        
+        create_directories([config.root_dir])
+        
+        model_evaluation_config = ModelEvaluationConfig(
+            root_dir=config.root_dir,
+            model_dir=config.model_dir,
+            test_data_dir=config.test_data_dir,
+            metrics_file_name=config.metrics_file_name,
+            target_column=schema.name,
+            all_params=params,
+            mlflow_uri="https://dagshub.com/Harshvardhan2164/MLOPS-Project.mlflow"
+        )
+        
+        return model_evaluation_config
         
