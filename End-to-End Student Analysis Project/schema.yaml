@@ -1,0 +1,13 @@
+COLUMNS:
+  gender: object
+  race_ethnicity: object
+  parental_level_of_education: object
+  lunch: object
+  test_preparation_course: object
+  reading_score: int64
+  writing_score: int64
+  math_score: int64
+
+
+TARGET_COLUMN:
+  name: math_score
