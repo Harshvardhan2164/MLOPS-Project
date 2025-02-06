@@ -7,4 +7,3 @@ pyYAML
 Flask
 Flask-Cors
 joblib
--e .
