@@ -27,8 +27,8 @@ try:
     )
     
     pred_df = data.get_data_as_dataframe()
-    obj = TestPipeline(pred_df)
-    print(obj.main())
+    obj = TestPipeline()
+    print(obj.main(pred_df))
     logging.info(f"{STAGE_NAME} Completed")
 except Exception as e:
     raise CustomException(e, sys)
