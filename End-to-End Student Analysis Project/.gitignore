@@ -1,4 +1,4 @@
-StudentAnalysis.egg-info/*
-artifacts/*
-logs/*
-catboost_info/*
+StudentAnalysis.egg-info/
+artifacts/
+logs/
+catboost_info/
