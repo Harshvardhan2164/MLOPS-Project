@@ -1,0 +1,104 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #121212, #1e1e1e);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    color: #ddd;
+}
+
+.login {
+    background: rgba(25, 25, 25, 0.7);
+    backdrop-filter: blur(10px);
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+    padding: 50px;
+    width: 400px;
+    text-align: center;
+    animation: fadeIn 0.8s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+h1 {
+    font-size: 1.8rem;
+    margin: 80px 0 20px 0;
+    color: #fff;
+}
+
+h2{
+    font-size: 1.8rem;
+    color: #fff;
+}
+
+.form-label {
+    font-weight: 600;
+    display: block;
+    text-align: left;
+    margin-bottom: 5px;
+    color: #bbb;
+}
+
+select {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    border: 1px solid #333;
+    font-size: 1rem;
+    background: #222;
+    color: #fff;
+    outline: none;
+    transition: all 0.3s ease;
+}
+
+input{
+    width: 94.2%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    border: 1px solid #333;
+    font-size: 1rem;
+    background: #222;
+    color: #fff;
+    outline: none;
+    transition: all 0.3s ease;
+
+}
+
+input:focus, select:focus {
+    border-color: #0ff;
+    box-shadow: 0 0 8px #0ff;
+}
+
+.btn-primary {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: 8px;
+    margin-top: 20px;
+    cursor: pointer;
+    background: linear-gradient(135deg, #00c6ff, #0072ff);
+    color: white;
+    transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+    transform: scale(1.05);
+    background: linear-gradient(135deg, #0072ff, #00c6ff);
+    box-shadow: 0 0 10px #00c6ff;
+}
+
+@media (max-width: 450px) {
+    .login {
+        width: 90%;
+        padding: 30px;
+    }
+}
